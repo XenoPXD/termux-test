@@ -1,2 +1,1 @@
-termux-test
-a3
+termux-test\na3\nv3
